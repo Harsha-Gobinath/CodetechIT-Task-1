@@ -6,6 +6,12 @@ Duration : June 20 2024 to july 20 2024
 
 Overview of Project 
 
+![Screenshot 2024-06-23 151031](https://github.com/Harsha-Gobinath/CodetechIT-Task-1/assets/141494516/4ddbf247-2d55-4c4d-9828-8a26705888bc)
+![Screenshot 2024-06-23 150835](https://github.com/Harsha-Gobinath/CodetechIT-Task-1/assets/141494516/21173c98-a75e-4718-80f6-1588d14995d7)
+![Screenshot 2024-06-23 151010](https://github.com/Harsha-Gobinath/CodetechIT-Task-1/assets/141494516/d4bc8831-e9fb-41e8-8bce-fac09e9da56b)
+
+
+
 Project : Exploratory data analysis on Car features and MSRP dataset
 
 Objective 
@@ -15,7 +21,7 @@ The objective of this project is to perform exploratory data analysis on the car
 Key Activities 
 
 1. Data Cleaning : Ensuring the dataset is free from inconsistancies and missing values
-2. Data Visualization : Creating visulizations to understand data distributions, trends and relationships
+2. Data Visualization : creating visulizations to understand data distributions, trends and relationships
 3. Correlation Analysis : Identifying correlations between population figures and different years
 
 Technologies Used :
